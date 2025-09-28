@@ -1,2 +1,2 @@
 # odin-recipes
-Project will be about Supplements im going to make it about a website that has lists of supplements with pictures and different pages
+Project will be about Recipes and Supplements, i will be using lists of food recipes and then another section for Supplements with different pages and pictures attached to each recipe and supplement

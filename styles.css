@@ -1,3 +1,9 @@
 h2 {
     color: aqua;
 }
+
+.benefit-list {
+    background-color: khaki;
+    font-weight: bold;
+    font-size: 36px
+}

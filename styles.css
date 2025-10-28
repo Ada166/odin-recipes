@@ -1,9 +1,19 @@
+h1 {
+    color: darkblue;
+    text-align: center;
+    font-size: 48px;
+}
 h2 {
-    color: aqua;
+    color: darkblue;
 }
 
 .benefit-list {
     background-color: khaki;
     font-weight: bold;
     font-size: 36px
+}
+
+img {
+    border: 5px solid black;
+    border-radius: 10px;
 }

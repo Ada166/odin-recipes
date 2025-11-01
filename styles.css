@@ -1,19 +1,80 @@
 h1 {
-    color: darkblue;
+    color: black;
     text-align: center;
     font-size: 48px;
 }
 h2 {
-    color: darkblue;
+    color: darkseagreen;
 }
 
-.benefit-list {
+.benefit-list {                                                         /* Class selector imported from Pre-workout */
     background-color: khaki;
     font-weight: bold;
     font-size: 36px
 }
 
 img {
+    width: 500px;
+    height: auto;
     border: 5px solid black;
     border-radius: 10px;
+}
+
+.recipes {
+    background-color: lightyellow;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+    margin: 20px;
+}
+
+.supplements {
+    background-color: lightcyan;
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: 10px;
+    margin: 20px;
+}  
+
+
+                                                /*Hero of Main page*/
+.hero {
+  text-align: center;          
+  background-color: #f9f9f9;    
+  padding: 30px 0; 
+  width: 100%;           
+}
+
+.hero h1 {
+  font-family: 'Georgia', serif;
+  font-size: 48px;
+  color: darkcyan;
+  margin-bottom: 20px; 
+  background-color: khaki;        
+}
+
+.hero img {
+  border-radius: 20px;         
+  box-shadow: 0 16px 24px 16px lightcyan;  
+  height: auto;                 
+}
+                                                /*Ending of Hero of Main page*/
+.sub-hero-box {
+    text-align: center;               
+    background-color: lightblue;      
+    padding: 20px;                     
+    border-radius: 15px;              
+    width: 50%;                      
+    margin: 20px auto;         
+}                                    
+
+#sub-hero {
+    margin-bottom: 15px;              
+}                                              
+
+#sale {        
+    background-color: lightcoral;    
+    padding: 10px;
+    border-radius: 10px;
+    display: inline-block;
 }
